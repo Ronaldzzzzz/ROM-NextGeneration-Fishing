@@ -1,2 +1,22 @@
 # ROM_NextGeneration_Fishing
-Ragnarok Online Mobile : New Generation Auto Fishing Robot
+
+This is a auto fishing robot for Ragnarok Online Mobile : New Generation
+It is only support Windows now, but technically, it shuold support all the OS.
+
+## Installation
+
+Download the zip file from release.
+
+## How to use
+
+1. 將模擬器角色移動至釣魚區域，換好魚餌，並按下釣魚鍵直到拋竿按鈕出現
+2. 開啟程式後，使用滑鼠中鍵框遊戲的視窗，左上按下然後拉到右下放開（只需要框遊戲的視窗，模擬器的視窗不要框到）
+3. 按下enter後，游標會移動到釣魚按鈕上
+4. 再按下enter後，游標會移動到釣魚按鈕左上
+5. 再按下enter後，游標會移動到釣魚按鈕右下
+6. 最後再次按下enter，程式就會開始自動釣魚
+
+## Need to be fixed
+
+1. 程序簡化
+2. 偵測不準確
