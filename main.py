@@ -32,6 +32,9 @@ def on_press(key):
 listener = mouse.Listener(on_click=on_click)
 listener.start()
 listener.join()
+
+print("Welcome to use RO Mobile: Next Gen Auto Fishing!")
+print("Press and drag middle button for the screen...")
 print(x1, y1)
 print(x2, y2)
 input("Wait....")
