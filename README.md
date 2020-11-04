@@ -18,3 +18,6 @@ Download the zip file from release.
 
 1. 程序簡化
 2. 偵測不準確
+
+### Author
+Ronald Lin - jacky7770123@gmail.com
