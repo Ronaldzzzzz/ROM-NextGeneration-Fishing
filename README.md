@@ -1,7 +1,7 @@
 # ROM_NextGeneration_Fishing
 
-This is a auto fishing robot for Ragnarok Online Mobile : New Generation. 
-It is only support Windows now, but technically, it shuold support all the OS.
+This is an auto fishing robot for Ragnarok Online Mobile : New Generation. 
+It is only support Windows(Emulator) now, but technically, it shuold support all the OS.
 
 ## Installation
 
