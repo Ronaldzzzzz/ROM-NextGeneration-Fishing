@@ -1,11 +1,22 @@
 # ROM_NextGeneration_Fishing
 
-This is an auto fishing robot for Ragnarok Online Mobile : New Generation. 
-It is only support Windows(Emulator) now, but technically, it shuold support all the OS.
+This is an auto fishing robot for Ragnarok Online Mobile : New Generation. It is only support Windows(Emulator) now, but technically, it shuold support all the OS.
 
 ## Installation
 
+### Pre-build
+
 Download the zip file from release.
+
+### Using source code
+
+The program is writen by Python 3, please make sure you have install Python first.
+
+* Install library
+  
+  `pip install pyautogui, pynput`
+
+* Run it!
 
 ## How to use
 
@@ -20,4 +31,5 @@ Download the zip file from release.
 2. 偵測不準確
 
 ### Author
+
 Ronald Lin - jacky7770123@gmail.com
