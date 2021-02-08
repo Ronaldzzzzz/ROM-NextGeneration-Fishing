@@ -4,19 +4,25 @@ This is an auto fishing robot for Ragnarok Online Mobile : New Generation. It is
 
 ## Installation
 
+### Prerequisites
+
+If you are Windows users, you are able to skip this part and execute the pre-build version.
+
+`pip install pyautogui, pynput`
+
 ### Pre-build
 
 Download the zip file from release.
 
 ### Using source code
 
-The program is writen by Python 3, please make sure you have install Python first.
+The program is writen by Python 3, please make sure you have installed Python and dependencies first.
 
-* Install library
-  
-  `pip install pyautogui, pynput`
-
-* Run it!
+```shell
+git clone https://github.com/Ronaldzzzzz/ROM_NextGeneration_Fishing
+cd ROM_NextGeneration_Fishing
+python main.py
+```
 
 ## How to use
 
@@ -26,7 +32,7 @@ The program is writen by Python 3, please make sure you have install Python firs
   
 * Press `Enter` in the program, the program will move your mouse position to the fishing button.
   
-* Press `Enter` again, and the program will start fishing in 3 seconds delay.
+* Press `Enter` again, and the program will start fishing in a 3 seconds delay.
 
 ---
 
@@ -43,6 +49,6 @@ The program is writen by Python 3, please make sure you have install Python firs
 * Simplify the process
 * Improve the detection, or finding a better confidence value
 
-### Author
+## Author
 
 Ronald Lin - jacky7770123@gmail.com
